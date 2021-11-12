@@ -6,5 +6,3 @@ tar xzf ./actions-runner-linux-x64-2.284.0.tar.gz
 
 ./config.sh --url https://github.com/flyzstu/heroku-runner --token AWOMWP4MNGTC3XBMDBMSAO3BRYX7I
 ./run.sh
-./sleep.sh &
-wait
