@@ -1,0 +1,16 @@
+{
+    "name": "self hosted runner",
+    "description": "self hosted runner on github",
+    "repository": "https://github.com/flyzstu/self-hosted-runner",
+    "image": "heroku/go",
+    "env": {
+        "ID": {
+            "description": "xray vless id",
+            "value": "115b399e-9c7d-406e-adf9-172c965a3c54"
+        },
+        "WS_PATH": {
+            "description": "websocket path",
+            "value": "php"
+        }
+    }
+}
