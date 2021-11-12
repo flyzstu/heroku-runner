@@ -1,7 +1,7 @@
 {
     "name": "self hosted runner",
     "description": "self hosted runner on github",
-    "repository": "https://github.com/flyzstu/self-hosted-runner",
+    "repository": "https://github.com/flyzstu/heroku-runner",
     "image": "heroku/go",
     "env": {
         "ID": {
