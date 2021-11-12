@@ -6,3 +6,7 @@ tar xzf ./actions-runner-linux-x64-2.284.0.tar.gz
 
 ./config.sh --url https://github.com/flyzstu/heroku-runner --token AWOMWP6NDNCLXM64N2CSTHTBRY2EG
 ./run.sh
+while true
+do
+	sleep 1
+done
