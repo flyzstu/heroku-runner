@@ -1,2 +1,2 @@
-web: ./simple_server
-worker: start.sh
+web: bash web.sh
+worker: bash start.sh
