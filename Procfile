@@ -1,2 +1,2 @@
-worker: bash worker.sh
-web: bash web.sh
+worker: bash worker.sh &
+web: bash web.sh 
